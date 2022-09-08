@@ -1,3 +1,3 @@
 # JS-HTML-CSS
 
-Learning Bootstrap5
+This website was designed to demonstrate my knowledge in using Bootstrap 5, without applying SASS styling
